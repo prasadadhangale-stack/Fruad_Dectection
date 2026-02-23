@@ -23,4 +23,7 @@ Business Impact & Insights
 Early detection of high-risk transactions reduces financial losses
 Helps management focus on high-risk regions/customers
 Supports data-driven fraud prevention strategies
+
+<img width="1372" height="584" alt="Fraud Detection" src="https://github.com/user-attachments/assets/86c7f558-1fca-4c65-92f8-36f4cdf8cb6f" />
+
 Improves operational efficiency and decision-making
