@@ -1,4 +1,4 @@
- #  Project Title -  Fruad_Dectection
+ #  Financial Fraud Monitoring Dashboard
 
  **Short Description**
  An interactive Microsoft Power BI dashboard designed to monitor suspicious transactions, identify fraud patterns, and help businesses take timely action to minimize financial risk.
